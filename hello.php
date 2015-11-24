@@ -1,5 +1,5 @@
 <?php
-echo "Cloud: Lab ΙI";
+echo "Cloud: Lab II";
 
 echo "AWS OpsWorks Services";
 
