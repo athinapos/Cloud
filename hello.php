@@ -1,10 +1,9 @@
 <?php
-echo "Υπολογιστική Νέφους: Εργαστήριο ΙI
+echo "Cloud: Lab ΙI";
 
-Υπηρεσία αποθήκευσης και Ανάπτυξη διαδικτυακής εφαρμογής
+echo "AWS OpsWorks Services";
 
+echo "Apostolopoulou Athina MPSP/14007";
 
-Αποστολοπούλου Αθηνά ΜΠΣΠ/14007
-Παναγοπούλου Μαρία ΜΠΣΠ/11013"; 
-
+echo "Panagopoulou Maria MPSP/11013";
 ?>
