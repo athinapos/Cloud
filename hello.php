@@ -1,9 +1,9 @@
 <?php
-echo "Cloud: Lab II";
+echo "Cloud: Lab II"\n;
 
-echo "AWS OpsWorks Services";
+echo "AWS OpsWorks Services\n\n";
 
-echo "Apostolopoulou Athina MPSP/14007";
+echo "Apostolopoulou Athina MPSP/14007\n";
 
-echo "Panagopoulou Maria MPSP/11013";
+echo "Panagopoulou Maria MPSP/11013\n";
 ?>
